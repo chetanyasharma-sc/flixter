@@ -9,7 +9,6 @@ target 'flixter' do
 
   pod "AlamofireImage"
 
-
   target 'flixterTests' do
     inherit! :search_paths
     # Pods for testing
