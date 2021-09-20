@@ -2,7 +2,7 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
+
 
 ## Flix Part 2
 
@@ -17,12 +17,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="https://media.giphy.com/media/7YMqob9tmXqG5YHSbz/giphy.gif?cid=790b76111af1ecc66dba6774ae7fa54da0c0403274a0b42c&rid=giphy.gif&ct=g" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+it is new language to learn but i am getting used to of it. some parts are still new to me like the adjustment of size of poster. I encountered challenges in understading the code. 
 ---
 
 ## Flix Part 1
